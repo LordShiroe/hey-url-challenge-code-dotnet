@@ -4,7 +4,7 @@
 
 This repository has been created as a code challenge for candidates with
 FullStack Labs. Please setup your environment following the `Getting Started`
-section before starting the challenge.
+section before starting the challenge. **Do not fork or push this to a public repository**
 
 ## Getting Started
 
